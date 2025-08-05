@@ -1,0 +1,1 @@
+npm install react react-dom @google/genai && npm install --save-dev vite @types/react @types/react-dom typescript
